@@ -2,14 +2,14 @@
 
 <h2> Data Analytics Projects:</h2>
 
-- <b>Salesforce Project 1 </b>
+- <b>Salesforce </b>
   - [Use Salesforce to Identify Prospects](https://docs.google.com/presentation/d/1XiOsEz-yIdlvyw6We1ejNTFyb5zFfzCnaSL-9D5CTS4/edit?usp=share_link)
 - <b>Excel </b>
   - [Spreadsheet](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>Certifications</h2>
 
-- [Salesforce](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Salesforce Sales Operations Specialization](https://drive.google.com/file/d/14xkd7o3eFGFRc0OxRqHIZLg5jc1J8B-W/view?usp=share_link)
 
 <h2>Training Videos</h2>
 
