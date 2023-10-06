@@ -3,7 +3,7 @@
 <h2> Data Analytics Projects:</h2>
 
 - <b>Salesforce </b>
-  - [CRM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CRM](https://github.com/awalters512/Salesforce)
 - <b>Excel </b>
   - [Spreadsheet](https://github.com/joshmadakor1/Algorithms-Practice)
  
