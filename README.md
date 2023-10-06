@@ -7,11 +7,11 @@
 - <b>Excel </b>
   - [Spreadsheet](https://github.com/joshmadakor1/Algorithms-Practice)
  
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
 
 - [Salesforce Sales Operations Specialization](https://drive.google.com/file/d/14xkd7o3eFGFRc0OxRqHIZLg5jc1J8B-W/view?usp=share_link)
 
-<h2>Training Videos</h2>
+<h2>Training Videos:</h2>
 
 - [Utilizing Excel](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
