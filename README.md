@@ -2,8 +2,8 @@
 
 <h2> Data Analytics Projects:</h2>
 
-- <b>Salesforce </b>
-  - [CRM](https://github.com/awalters512/Salesforce)
+- <b>Salesforce Project 1 </b>
+  - [Use Salesforce to Identify Prospects](https://docs.google.com/presentation/d/1XiOsEz-yIdlvyw6We1ejNTFyb5zFfzCnaSL-9D5CTS4/edit?usp=share_link)
 - <b>Excel </b>
   - [Spreadsheet](https://github.com/joshmadakor1/Algorithms-Practice)
  
